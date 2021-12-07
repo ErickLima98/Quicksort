@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504232902 source:e:\quicksort\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1504232902 source:c:\users\usuario\documents\documentos\url\segundo semestre\programación avanzada\ejercicios\quicksort\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
